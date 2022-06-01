@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "SaasSportClubAPI.cors.allowed-origins",
+      "type": "java.lang.String",
+      "description": "Description for SaasSportClubAPI.cors.allowed-origins."
+    }
+  ] }
